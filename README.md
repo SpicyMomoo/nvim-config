@@ -1,4 +1,11 @@
-# 💤 LazyVim
+## How to install 
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+```
+```
+  cd ~/.config
+  git clone git@github.com:SpicyMomoo/nvim-config.git nvim
+  nvim
+```
+```
+
+Be sure that nvim is install 
