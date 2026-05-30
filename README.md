@@ -2,10 +2,8 @@
 
 ```
 cd ~/.config
-  git clone git@github.com:SpicyMomoo/nvim-config.git nvim
-  nvim
+git clone git@github.com:SpicyMomoo/nvim-config.git nvim
+nvim
 ```
-```
-
 
 Be sure that nvim is install 
