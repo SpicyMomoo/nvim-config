@@ -1,11 +1,7 @@
 ## How to install 
 
 ```
-```
-
-
-```
-```cd ~/.config
+cd ~/.config
   git clone git@github.com:SpicyMomoo/nvim-config.git nvim
   nvim
 ```
